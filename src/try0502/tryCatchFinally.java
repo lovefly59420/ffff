@@ -12,6 +12,7 @@ public class tryCatchFinally {
 		System.out.println("--------");
 	}
 
+	// test
 	// 1 catch
 	private static void tryCatchFinally01() {
 		try {
